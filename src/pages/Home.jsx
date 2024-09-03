@@ -1,6 +1,6 @@
 // src/App.js
-import Chat from "../components/Chat";
-import Calendar from "../components/Calendar";
+import Chat from "../components/home/Chat";
+import Calendar from "../components/home/Calendar";
 import Settings from "../components/Settings";
 import LOGO from "../../public/Home-logo.svg";
 import "./Home.css";
