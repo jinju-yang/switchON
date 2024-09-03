@@ -1,0 +1,20 @@
+.Input-container {
+  display: flex;
+  gap: 70px;
+  width: 1115px;
+  margin: 0 auto;
+  justify-content: center;
+  margin-top: 70px;
+  padding: 20px 50px;
+  background: #e8d1f0;
+  border-radius: 20px;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: center;
+}

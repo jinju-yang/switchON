@@ -1,0 +1,21 @@
+.address {
+  display: flex;
+  flex-direction: column;
+  height: 330px;
+}
+
+.searchButton {
+  padding: 10px;
+  border: none;
+  background-color: #951abe;
+  color: white;
+  margin-top: 20px;
+}
+
+.AddressInput {
+  height: auto;
+}
+
+.button {
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+.Input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.Input textarea {
+  padding: 10px;
+  width: 200px;
+  height: 326px;
+  resize: none;
+
+  background: #ffffff;
+  border: 1px solid #000000;
+}
+
+.Input .title {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: center;
+
+  color: #000000;
+}
